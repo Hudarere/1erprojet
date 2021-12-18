@@ -1,1 +1,3 @@
 # 1erprojet
+*fichier
+*cosine
